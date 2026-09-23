@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "778f33589c38b08e14a1ff33",
+  "owner": "uccstkhy",
+  "repo": "page-3617d2e0a539c564887ecd2b",
+  "title": "MESL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3617d2e0a539c564887ecd2b",
+      "a": "MESL",
+      "b": "2027最新官网",
+      "entity": "MESL",
+      "brand": "MESL",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "65d679bc9ef4be1b088f239308dc8554a6bae365e8423944279c4447edd09740",
+      "content": {
+        "primary_entity": "MESL",
+        "keyword1": "MESL",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，并参考对应订阅配置说明。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选合适套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别覆盖每月 100GB、300GB 与 1000GB 流量，支持 3 台、5 台与 20 台设备同时在线。旗舰版和团队版配备 IPLC 专线及原生流媒体解锁，适合对稳定性和带宽要求较高的用户。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量和订阅周期三个角度快速了解 MESL 的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版 300GB 流量，支持 5 台设备；团队版 1000GB 流量，支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "可根据手机、平板、电脑的数量选择套餐，设备较多时团队版更便于统一管理。",
+          "AI_FEATURE_TEXT_3": "按年付比按月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量分档清晰",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "年付价格更优",
+          "AI_GUIDE_INTRO": "简单三步完成 MESL 服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "MESL 提供基础版、旗舰版与团队版三档海外加速套餐，月付价格从 ¥15 起，按年付低至 ¥150/年。根据设备数量与流量需求选择版本，再按照客户端配置文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多种设备需求",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量灵活选",
+          "AI_HIGHLIGHT_2": "旗舰版与团队版配备 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付方案比月付更省费用",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与流媒体，团队版面向多设备高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备数量和客户端类型的适配要求，确认符合自己的使用环境。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅信息，完成节点选择与连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MESL 海外加速套餐",
+          "AI_FAQ_ANSWER_1": "按年付基础版150元、旗舰版350元、团队版850元，比按月支付更划算，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版5台，团队版20台。多人共用或设备较多时优先考虑团队版。",
+          "AI_FAQ_ANSWER_3": "建议先确认设备系统，再根据流量与在线设备数挑选套餐，完成后参考对应客户端文档导入订阅。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版提供更高带宽与专属节点，适合对速度要求较高的游戏、直播和跨境办公。",
+          "AI_FAQ_ANSWER_5": "套餐按月或按年计费，年付已包含优惠价格，选择后长期生效，无需每月手动续费。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "新手应该如何选套餐并完成配置？",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_5": "套餐计费周期是怎样的？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qiansumiaossr.com",
+    "host": "qiansumiaossr.com"
+  },
+  "file_hashes": {
+    "index.html": "5e825899d58d291530d6eb319e0537108f1c0e8fdc02e88edbfc307a0669083b",
+    "sitemap.xml": "96c090261d70465de5f7b1b9d0e4311a0fb0c414f5d61639e565448f75930f58",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7b5071f4049682ae027ce7e35f547d272175aa821cc9fd758acf8520b1ddff66",
+    "robots.txt": "ded2ded47e28f5870e6a554deacaefe8bb88ef1402e73b5dc17ca38c12e03595",
+    "6aeb45007805c3dbf6b2c5a799e9ef7a.txt": "073db873f4f433f9b9211790691f2eb4261e2fc77d52c1afc12437e3dd2cd57b"
+  },
+  "revision": "e778c122cd7e6e4de5d4b9c342618e4b905e39fe455d3688a120ed4cfe2f0d81"
+}
